@@ -7,3 +7,7 @@ function myFunction() {
     sentence += " a lot of money.";
     document.getElementById("click").innerHTML =sentence; //this is stating the function will print the var sentence, which has been concated
 }
+function myFunction2() {
+    return p1 * p2;
+}
+document.getElementById("times").innerHTML = myFunction2(6,7);
