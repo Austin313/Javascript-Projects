@@ -3,6 +3,7 @@ var X = 10;
 function add_Numbers_1() {
     var Y = 10;
     document.write(X + Y + "<br>");
+    console.log(Y);
 }
 add_Numbers_1();
 //adding a method function
