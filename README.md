@@ -11,18 +11,17 @@ Attached Projects  {
     -A custom pizza menu;
 }
 
-#todo app {
+#todo app 
     This creates objects and allows them to be deleted freely. Super basic ToDo app.
-}
 
-#Tictactoe Browser game {
+
+#Tictactoe Browser game 
     This one I had a lot of fun on, and getting it to work perfectly and the way I wanted to get it to work. Added Sound effects and custom properties really is pumped me up to move into C++ and C#.
-}
 
-#Calculator {
+
+#Calculator 
     This is a fully functional calculator accesible and completed using JS, CSS, HTML. 
-}
 
-Pizza Menu {
+
+Pizza Menu 
     This was a pizza menu, looking sort of into something like I could use in a ecommerce scenario. 
-}
